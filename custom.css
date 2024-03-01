@@ -1,3 +1,44 @@
 .nav-link{
     color: purple;
     }
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: purple;
+}
+
+h4 {
+    color: purple;
+}
+
+h5 {
+    color: purple;
+}
+
+.card-title {
+    color: purple;
+}
+
+#creatorThumbnail {
+    border-radius: 25px;
+    border: 2px solid purple;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+#externalLinks {
+    margin-top: 15px;
+    border-radius: 25px;
+    border: 2px solid purple;
+    padding: 20px;
+    width: 200px;
+    height: 500px;
+}
