@@ -3,9 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="custom.css">
+
+    <title>About</title>
 </head>
+
+<style>
+    .aboutRow {
+        padding-top: 50px;
+    }
+
+    .imgTest {
+        text-align: center;
+    }
+
+    .aboutText {
+        padding-top: 50px;
+    }
+
+    .contact {
+        padding-top: 15px;
+    }
+
+</style>
+
+
 <body>
+
+    <div class="container navHeader">
+        <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+          <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
+            <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
+            <span class="fs-4">Kwibi</span>
+          </a>
     
+          <ul class="nav nav-pills">
+            <li class="nav-item"><a href="./index.html" class="nav-link" aria-current="page">Home</a></li>
+            <li class="nav-item"><a href="./browse-creators.html" class="nav-link">Creators</a></li>
+            <li class="nav-item"><a href="./browse-projects.html" class="nav-link">Projects</a></li>
+            <li class="nav-item"><a href="./about.html" class="nav-link">About</a></li>
+          </ul>
+        </header>
+      </div>
+
+      <div class="container">
+        <h2 align="center">About The Developers</h2>
+        <h4 align="center">SE/COMS 319 Construction of User Interfaces</h4>
+
+        <div class="row aboutRow">
+            <div class="col imgTest" width="100">
+                <h3 align="center">Nathan Giddings</h3>
+                <img src="./images/testimg1.jpeg" alt="sunset" width="500px">
+                <p class="aboutText">Nathan Giddings is currently a senior studying Computer Science at Iowa State University. 
+                   Nathan specializes in backend technologies with working experience in scripting in JavaScript. 
+                   Nathan is taking COM S 319 to further his understanding of user interfaces and front-end development.</p>
+                <p class="contact">Contact: <a href="mailto:johnsot@iastate.edu">npg@iastate.edu</a></p>
+            </div>
+
+            <div class="col imgTest" width="100">
+                <h3 align="center">Thanh Johnson</h3>
+                <img src="./images/testimg1.jpeg" alt="sunset" width="500">
+                <p class="aboutText">Thanh Johnson is a non-traditional student with a background in business management who is currently in her second year of 
+                   Computer Science at Iowa State University. Thanh has previously worked with front-end technologies and is 
+                   is taking COM S 319 to better understand UI/UX and to learn backend development.</p>
+                   <p class="contact">Contact: <a href="mailto:johnsot@iastate.edu">johnsot@iastate.edu</a></p>
+            </div>
+        </div>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
 </body>
 </html>
