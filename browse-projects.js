@@ -10,7 +10,7 @@ function genProjectCard(project) {
             </div>`;
 }
 
-fetch("./projects.json")
+fetch("./data.json")
     .then(result => result.json())
     .then(result => {
         console.log(result);
