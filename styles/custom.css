@@ -48,9 +48,18 @@ h5 {
     border: 1px solid #5E17EB;
 }
 
+.card:hover {
+    scale:1.04;
+}
+
+.card {
+    transition: 0.3s;
+}
+
 .projectCard {
     border: 1px solid #5E17EB;
     box-shadow: 100px 100px 100px red;
+    margin-bottom: 2rem;
 }
 
 .className {
@@ -82,5 +91,14 @@ h5 {
 }
 
 #creator-list {
+    border: 1px solid #5E17EB;
+}
+
+.creatorListItem:hover {
+    scale: 1.01 1;
+}
+
+.creatorListItem {
+    transition: 0.2s;
     border: 1px solid #5E17EB;
 }

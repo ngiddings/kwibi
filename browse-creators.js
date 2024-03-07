@@ -1,6 +1,6 @@
 function genCreatorRow(creator) {
     console.log(creator);
-    return `<li class="list-group-item">
+    return `<li class="list-group-item creatorListItem">
                 <div class="row p-3">
                     <div class="col-3 imgIcon">
                         <img src="images/${creator.photo}"
