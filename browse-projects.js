@@ -1,9 +1,10 @@
 function genProjectCard(project) {
-    return `<div class="card shadow-sm">
-                <img src="${project.thumbnail}"
+    return `<div class="card shadow-sm projectCard">
+                <img src="./images/${project.thumbnail}"
                     class="card-img-top" alt="${project.name}">
                 <h2 class="card-title">${project.name}</h2>
                 <div class="card-body">
+                    <p>By: <strong>${project.creator_name}</strong></p>
                     <p>${project.blurb}</p>
                 </div>
             </div>`;
