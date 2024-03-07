@@ -2,7 +2,7 @@ function genCreatorRow(creator) {
     console.log(creator);
     return `<li class="list-group-item">
                 <div class="row p-3">
-                    <div class="col-3">
+                    <div class="col-3 imgIcon">
                         <img src="images/${creator.photo}"
                             class="card-img-top" alt="${creator.name}">
                     </div>

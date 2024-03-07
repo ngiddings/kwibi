@@ -1,32 +1,80 @@
 [
     {
-        "name": "Don Knotts",
-        "blurb": "",
-        "creator_name": "",
-        "thumbnail": "https://www.latimes.com/includes/projects/hollywood/portraits/don_knotts.jpg"
+        "name": "Mango Kitty Popsocket",
+        "blurb": "The cutest kitty popsocket ever",
+        "creator_name": "Mango Mousse",
+        "thumbnail": "mm1.jpg"
     },
     {
-        "name": "Don Cheadle",
-        "blurb": "",
-        "creator_name": "",
-        "thumbnail": "https://cdn.britannica.com/95/216995-050-5E4D147A/American-actor-director-Don-Cheadle-2016.jpg?w=400&h=300&c=crop"
+        "name": "Wheel of Fortune",
+        "blurb": "New prints available",
+        "creator_name": "Florakitz",
+        "thumbnail": "f2.jpg"
     },
     {
-        "name": "Don Quixote",
-        "blurb": "",
-        "creator_name": "",
-        "thumbnail": "https://miro.medium.com/v2/resize:fit:1080/1*TzMc7v4WoTBiIK0IJvTKXg.png"
+        "name": "Customized Holo Tumblers",
+        "blurb": "Cute, colorful, customized Tumblers",
+        "creator_name": "Nekomata Co",
+        "thumbnail": "neko1.png"
     },
     {
-        "name": "Don Johnson",
-        "blurb": "",
-        "creator_name": "",
-        "thumbnail": "https://i.discogs.com/0a6tejOQPXYRRU1twFhkhDZJysQc-fMevZ7JdM6e6xM/rs:fit/g:sm/q:90/h:600/w:434/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1OTY0/OC0xNTAyOTE0Mzgx/LTkwMzEuanBlZw.jpeg"
+        "name": "Bright Night",
+        "blurb": "Elf in the night",
+        "creator_name": "Maotsuno",
+        "thumbnail": "mao1.jpg"
     },
     {
-        "name": "Don King",
-        "blurb": "",
-        "creator_name": "",
-        "thumbnail": "https://www.famousafricanamericans.org/images/don-king.jpg"
+        "name": "Volleyball Fillers",
+        "blurb": "Small volleyball pins",
+        "creator_name": "Mango Mousse",
+        "thumbnail": "mm2.jpg"
+    },
+    {
+        "name": "Angry Bear Cafe Shirt",
+        "blurb": "The cutest shirt featuring Angry Bear Cafe staff",
+        "creator_name": "Odo Studios",
+        "thumbnail": "odo1.jpg"
+    },
+    {
+        "name": "Twin Snakes",
+        "blurb": "New tattoo design available",
+        "creator_name": "Florakitz",
+        "thumbnail": "f3.jpg"
+    },
+    {
+        "name": "Bakery Pencil Pouch",
+        "blurb": "A cute small pouch for your stuff",
+        "creator_name": "Odo Studios",
+        "thumbnail": "odo2.jpg"
+    },
+    {
+        "name": "Twin Buns",
+        "blurb": "Cute Style",
+        "creator_name": "Maotsuno",
+        "thumbnail": "mao3.jpg"
+    },
+    {
+        "name": "Cat Pins",
+        "blurb": "Small, shiny cat pins, perfect to accessorize your belongings",
+        "creator_name": "Mango Mousse",
+        "thumbnail": "mm3.jpg"
+    },
+    {
+        "name": "Soleil",
+        "blurb": "New soleil print",
+        "creator_name": "Florakitz",
+        "thumbnail": "f4.jpg"
+    },
+    {
+        "name": "Cute Filler Pins",
+        "blurb": "Small, colorful filler pins in the making",
+        "creator_name": "Nekomata Co",
+        "thumbnail": "neko3.png"
+    },
+    {
+        "name": "List Memo Pad",
+        "blurb": "Remember your To-Do's with these cute memo pads",
+        "creator_name": "Odo Studios",
+        "thumbnail": "odo3.jpg"
     }
 ]

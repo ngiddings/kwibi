@@ -1,12 +1,27 @@
 [
     {
-        "name": "Nathan Giddings",
-        "blurb": "This is Nathan",
-        "photo": "https://miro.medium.com/v2/resize:fit:1080/1*TzMc7v4WoTBiIK0IJvTKXg.png"
+        "name": "Odo Studios",
+        "blurb": "Hi, I'm odo. i'm a BL webcomic artist and digital illustrator! I also stream on Twitch to build confidence to chat, and to show my process for my art!",
+        "photo": "odo.jpg"
     },
     {
-        "name": "Thanh Johnson",
-        "blurb": "This is Thanh",
-        "photo": "https://i.discogs.com/0a6tejOQPXYRRU1twFhkhDZJysQc-fMevZ7JdM6e6xM/rs:fit/g:sm/q:90/h:600/w:434/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1OTY0/OC0xNTAyOTE0Mzgx/LTkwMzEuanBlZw.jpeg"
+        "name": "Mango Mousse",
+        "blurb": "I started as a graphic designer that wanted to bring ideas to life. I like to create enamel pins, stickers, and charms inspired by cats and other cute things.",
+        "photo": "mangomousse.jpg"
+    },
+    {
+        "name": "Nekomata Co.",
+        "blurb": "My sister and I work together in sync to bring you enamel pins, prints, stickers and whatever else we think our customers might enjoy!",
+        "photo": "nekomataco.jpg"
+    },
+    {
+        "name": "Florakitz",
+        "blurb": "Hey I'm Flora, a german freelance artist and tattoo artist. I get inspiration from Alphonse Mucha and nature itself. I love sitting in the sun and just enjoying the moment. Appreciating plants and animals by creating art is pure fulfillment for me.",
+        "photo": "florakitz.jpg"
+    },
+    {
+        "name": "Maotsuno",
+        "blurb": "Henlo! I’m Mao, a disabled, autistic and queer artist from Germany who specializes in anime art! I mostly draw original characters, which all have their own lore and background — a lot of them are fandom characters with a wide array of alternate universe versions (because you can’t ever have enough.) I love to design outfits for my OCs and also dabble in some fanfiction and roleplay writing. Aside from that I craft a bit here and there, for either cosplay or LARP. I don’t nearly draw as much as I would like to, but it’s always the most fun to share my characters’ stories with other people!",
+        "photo": "maotsuno.jpg"
     }
 ]
